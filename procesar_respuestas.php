@@ -4,7 +4,7 @@
     <title>Resultados</title>
 </head>
 <body>
-    <h1>Resultados</h1>
+    <h1>Resultados Obtenidos</h1>
 
     <?php
     $respuestasCorrectas = array('París', 'Miguel de Cervantes', 'i write a book', 'Git');

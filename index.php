@@ -19,8 +19,8 @@
         <label for="pregunta3">Pregunta 3: ¿Cómo se traduce en Inglés, "yo escribo un libro"?</label><br>
         <input type="text" id="pregunta3" name="respuestas[]" required><br><br>
 
-        <label for="pregunta3">Pregunta 4: ¿Cuál es la herramienta más utilizada para el control de versionamiento?</label><br>
-        <input type="text" id="pregunta3" name="respuestas[]" required><br><br>
+        <label for="pregunta4">Pregunta 4: ¿Cuál es la herramienta más utilizada para el control de versionamiento?</label><br>
+        <input type="text" id="pregunta4" name="respuestas[]" required><br><br>
 
 
         <input type="submit" value="Enviar respuestas">
